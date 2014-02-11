@@ -1,4 +1,4 @@
-# RailsCasts Example Application
+rai# RailsCasts Example Application
 
 Run these commands to try it out.
 
